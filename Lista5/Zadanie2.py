@@ -9,10 +9,6 @@ print('Zadanie 2')
 liczban = int(input('Podaj w postaci dziesietnej liczbe od 1 do 1999: '))
 
 
-
-
-# dodaj jeszcze pelne dziesiatki bo brakuje!!!!!!!!!!
-
 def liczby(liczban):
 
   # Tworze liste z nazwali liczby od 1 do 59 (dla pewnosci pomijam polskie znaki)
