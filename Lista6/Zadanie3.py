@@ -46,6 +46,7 @@ def look(a):
     return f
 
 c = a
+a = 1
 print(a)
 for i in range(c):
     g = look(a)
